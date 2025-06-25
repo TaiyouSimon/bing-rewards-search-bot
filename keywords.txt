@@ -1,0 +1,801 @@
+how to tie a tie
+what is the capital of australia
+how to bake a cake
+what is photosynthesis
+how to change a car tire
+what is a black hole
+how to learn python
+what is the stock market
+how to cook rice
+what is quantum physics
+how to build a website
+what is the international space station
+how to get a passport
+what is the meaning of carpe diem
+how to invest in stocks
+what is a vpn
+how to lose weight
+what is blockchain
+how to write a resume
+what is the pythagorean theorem
+how to fix a leaky faucet
+what is the best programming language
+how to jump start a car
+what is the difference between a latte and a cappuccino
+how to grow tomatoes
+what is artificial intelligence
+how to unclog a drain
+what is the human genome project
+how to play chess
+what is the speed of light
+best way to clean a keyboard
+recipe for chocolate chip cookies
+how to start a garden
+what time is it in tokyo
+how many ounces in a gallon
+who invented the telephone
+what is oled technology
+how do airplanes fly
+what are the seven wonders of the world
+how to make cold brew coffee
+Animals
+Lion
+Tiger
+Bear
+Elephant
+Giraffe
+Zebra
+Kangaroo
+Koala
+Penguin
+Dolphin
+Whale
+Shark
+Octopus
+Squid
+Jellyfish
+Starfish
+Sea Horse
+Clownfish
+Angelfish
+Eagle
+Hawk
+Owl
+Falcon
+Vulture
+Parrot
+Toucan
+Hummingbird
+Woodpecker
+Robin
+Blue Jay
+Sparrow
+Pigeon
+Duck
+Goose
+Swan
+Turkey
+Chicken
+Rooster
+Cow
+Pig
+Sheep
+Goat
+Horse
+Donkey
+Dog
+Cat
+Hamster
+Guinea Pig
+Rabbit
+Ferret
+Mouse
+Rat
+Squirrel
+Chipmunk
+Beaver
+Otter
+Raccoon
+Fox
+Wolf
+Coyote
+Deer
+Moose
+Elk
+Bison
+Antelope
+Gorilla
+Chimpanzee
+Orangutan
+Monkey
+Lemur
+Snake
+Lizard
+Gecko
+Chameleon
+Iguana
+Turtle
+Tortoise
+Crocodile
+Alligator
+Frog
+Toad
+Salamander
+Newt
+Spider
+Scorpion
+Beetle
+Ant
+Bee
+Wasp
+Butterfly
+Moth
+Dragonfly
+Ladybug
+Grasshopper
+Cricket
+Cockroach
+Fly
+Mosquito
+Panda
+Red Panda
+Sloth
+Armadillo
+Hedgehog
+Porcupine
+Platypus
+Food & Drink
+Pizza
+Burger
+Taco
+Sushi
+Pasta
+Salad
+Steak
+Chicken
+Fish
+Shrimp
+Lobster
+Crab
+Rice
+Quinoa
+Bread
+Cheese
+Yogurt
+Milk
+Butter
+Egg
+Apple
+Banana
+Orange
+Grape
+Strawberry
+Blueberry
+Raspberry
+Watermelon
+Pineapple
+Mango
+Avocado
+Broccoli
+Carrot
+Spinach
+Kale
+Tomato
+Potato
+Onion
+Garlic
+Mushroom
+Bell Pepper
+Coffee
+Tea
+Juice
+Soda
+Water
+Wine
+Beer
+Whiskey
+Vodka
+Rum
+Tequila
+Chocolate
+Ice Cream
+Cake
+Cookie
+Pie
+Donut
+Croissant
+Bagel
+Waffle
+Pancake
+Cereal
+Oatmeal
+Granola
+Almonds
+Walnuts
+Peanuts
+Cashews
+Honey
+Maple Syrup
+Ketchup
+Mustard
+Mayonnaise
+Hot Sauce
+Soy Sauce
+Vinegar
+Olive Oil
+Salt
+Pepper
+Cinnamon
+Paprika
+Cumin
+Oregano
+Basil
+Thyme
+Rosemary
+Cilantro
+Parsley
+United States
+Canada
+Mexico
+Brazil
+Argentina
+United Kingdom
+France
+Germany
+Italy
+Spain
+Portugal
+Russia
+China
+Japan
+India
+Australia
+Egypt
+South Africa
+New York City
+Los Angeles
+Chicago
+London
+Paris
+Berlin
+Rome
+Madrid
+Moscow
+Beijing
+Tokyo
+Sydney
+Cairo
+Nile River
+Amazon River
+Mount Everest
+K2
+Grand Canyon
+Eiffel Tower
+Statue of Liberty
+Colosseum
+Great Wall of China
+Taj Mahal
+Machu Picchu
+Pyramids of Giza
+Sahara Desert
+Antarctica
+Arctic Circle
+Pacific Ocean
+Atlantic Ocean
+Indian Ocean
+Mediterranean Sea
+Caribbean Sea
+California
+Texas
+Florida
+Alaska
+Hawaii
+Quebec
+Ontario
+British Columbia
+England
+Scotland
+Wales
+Ireland
+Bavaria
+Tuscany
+Kyoto
+Dubai
+Singapore
+Hong Kong
+Rio de Janeiro
+Buenos Aires
+Toronto
+Vancouver
+Mexico City
+Science & Technology
+Atom
+Molecule
+Cell
+DNA
+Gene
+Protein
+Enzyme
+Photosynthesis
+Respiration
+Gravity
+Electromagnetism
+Thermodynamics
+Quantum Mechanics
+Relativity
+Black Hole
+Neutron Star
+Galaxy
+Nebula
+Supernova
+Planet
+Star
+Moon
+Sun
+Asteroid
+Comet
+Geology
+Meteorology
+Oceanography
+Ecology
+Evolution
+Genetics
+Botany
+Zoology
+Anatomy
+Physiology
+Neuron
+Brain
+Heart
+Lungs
+Liver
+Kidney
+Stomach
+Computer
+Software
+Hardware
+CPU
+GPU
+RAM
+SSD
+Hard Drive
+Internet
+World Wide Web
+HTML
+CSS
+JavaScript
+Python
+Java
+C++
+Linux
+Windows
+macOS
+iOS
+Android
+Algorithm
+Data Structure
+Machine Learning
+Artificial Intelligence
+Neural Network
+Blockchain
+Cryptocurrency
+Bitcoin
+Ethereum
+Virtual Reality
+Augmented Reality
+Smartphone
+Laptop
+Tablet
+Drone
+Robot
+3D Printing
+GPS
+Wi-Fi
+Bluetooth
+Fiber Optics
+Solar Panel
+Wind Turbine
+Electric Car
+Tesla
+SpaceX
+NASA
+CERN
+History & Historical Figures
+Roman Empire
+Ancient Greece
+Ancient Egypt
+Mesoamerica
+Renaissance
+Reformation
+Enlightenment
+Industrial Revolution
+American Revolution
+French Revolution
+World War I
+World War II
+Cold War
+Viking Age
+Middle Ages
+Bronze Age
+Iron Age
+Stone Age
+Julius Caesar
+Augustus Caesar
+Cleopatra
+Alexander the Great
+Socrates
+Plato
+Aristotle
+Leonardo da Vinci
+Michelangelo
+William Shakespeare
+Isaac Newton
+Albert Einstein
+Galileo Galilei
+Marie Curie
+Charles Darwin
+Nikola Tesla
+Thomas Edison
+George Washington
+Abraham Lincoln
+Martin Luther King Jr.
+Nelson Mandela
+Winston Churchill
+Napoleon Bonaparte
+Genghis Khan
+Joan of Arc
+Queen Elizabeth I
+Christopher Columbus
+Ferdinand Magellan
+Marco Polo
+The Silk Road
+The Crusades
+The Black Death
+The Titanic
+The Moon Landing
+The fall of the Berlin Wall
+The invention of the printing press
+The discovery of penicillin
+The Wright brothers' first flight
+Arts & Culture
+Painting
+Sculpture
+Architecture
+Music
+Literature
+Poetry
+Theater
+Dance
+Film
+Photography
+Impressionism
+Cubism
+Surrealism
+Abstract Expressionism
+Pop Art
+Baroque
+Classical
+Romanticism
+Modernism
+Postmodernism
+Van Gogh
+Picasso
+Monet
+Rembrandt
+Warhol
+Mozart
+Beethoven
+Bach
+Chopin
+Vivaldi
+The Beatles
+The Rolling Stones
+Led Zeppelin
+Queen
+Michael Jackson
+Elvis Presley
+Frank Sinatra
+Bob Dylan
+Taylor Swift
+Beyoncé
+Homer
+Dante
+Chaucer
+Jane Austen
+Charles Dickens
+Mark Twain
+F. Scott Fitzgerald
+Ernest Hemingway
+J.K. Rowling
+George R.R. Martin
+Steven Spielberg
+Alfred Hitchcock
+Quentin Tarantino
+Martin Scorsese
+The Godfather
+Star Wars
+The Lord of the Rings
+Harry Potter
+Game of Thrones
+Breaking Bad
+The Office
+Friends
+Ballet
+Opera
+Jazz
+Blues
+Rock and Roll
+Hip Hop
+Pop Music
+Country Music
+Electronic Music
+Museum
+Gallery
+Concert
+Festival
+Broadway
+Hollywood
+Hobbies & Activities
+Gardening
+Cooking
+Baking
+Reading
+Writing
+Drawing
+Painting
+Knitting
+Crochet
+Sewing
+Woodworking
+Hiking
+Camping
+Fishing
+Hunting
+Kayaking
+Canoeing
+Sailing
+Surfing
+Scuba Diving
+Snorkeling
+Skiing
+Snowboarding
+Ice Skating
+Rollerblading
+Skateboarding
+Cycling
+Running
+Swimming
+Yoga
+Pilates
+Weightlifting
+CrossFit
+Martial Arts
+Karate
+Judo
+Taekwondo
+Photography
+Videography
+Playing Guitar
+Playing Piano
+Playing Drums
+Singing
+Collecting Stamps
+Collecting Coins
+Bird Watching
+Stargazing
+Traveling
+Learning a new language
+Volunteering
+Meditation
+Board Games
+Video Games
+Chess
+Checkers
+Poker
+Sudoku
+Crossword Puzzles
+Jigsaw Puzzles
+DIY projects
+Home improvement
+Car maintenance
+Model building
+Podcasting
+Blogging
+Vlogging
+Table
+Chair
+Desk
+Bed
+Sofa
+Lamp
+Clock
+Mirror
+Door
+Window
+Floor
+Ceiling
+Wall
+Roof
+Stairs
+Book
+Pen
+Pencil
+Paper
+Computer
+Phone
+Television
+Radio
+Camera
+Watch
+Glasses
+Key
+Wallet
+Backpack
+Umbrella
+Jacket
+Shirt
+Pants
+Shoes
+Socks
+Hat
+Gloves
+Scarf
+Car
+Bus
+Train
+Airplane
+Bicycle
+Motorcycle
+Boat
+Ship
+Road
+Street
+Bridge
+Tunnel
+Building
+House
+Apartment
+School
+Hospital
+Library
+Store
+Restaurant
+Park
+Beach
+Forest
+Mountain
+River
+Lake
+Ocean
+Sky
+Cloud
+Sun
+Moon
+Star
+Tree
+Flower
+Grass
+Rock
+Sand
+Water
+Air
+Fire
+Earth
+Love
+Hate
+Happiness
+Sadness
+Anger
+Fear
+Peace
+War
+Life
+Death
+Time
+Space
+Energy
+Matter
+Art
+Science
+History
+Math
+Language
+Music
+Money
+Power
+Knowledge
+Wisdom
+Truth
+Justice
+Freedom
+Beauty
+Health
+Wealth
+Success
+Failure
+Dream
+Reality
+Hope
+Despair
+Simple Verbs & Adjectives
+Run
+Walk
+Jump
+Sit
+Stand
+Eat
+Drink
+Sleep
+Wake
+Read
+Write
+Listen
+Speak
+See
+Hear
+Think
+Feel
+Learn
+Teach
+Work
+Play
+Love
+Hate
+Like
+Dislike
+Start
+Stop
+Open
+Close
+Push
+Pull
+Give
+Take
+Help
+Hurt
+Fast
+Slow
+Big
+Small
+Hot
+Cold
+Old
+New
+Good
+Bad
+Happy
+Sad
+Easy
+Hard
+Simple
+Complex
+Bright
+Dark
+Light
+Heavy
+Soft
+Hard
+Quiet
+Loud
+Rich
+Poor
+Strong
+Weak
+Beautiful
+Ugly
+Interesting
+Boring
+Creative
+Logical
+Ancient
+Modern
+Famous
+Unknown
+Popular
+Rare
+Expensive
+Cheap
+Delicious
+Disgusting
+Healthy
+Unhealthy
